@@ -4,5 +4,6 @@ import "fmt"
 
 
 func main{
-	fmt.Println("hello.git!")
+	fmt.Println("hello.gggit!")
+	fmt.Println("testtest")
 }
